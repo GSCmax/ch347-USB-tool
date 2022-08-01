@@ -1,6 +1,6 @@
 介绍：
 
-此开源库中的GStudio CH347.pdf为pcb原理图；CH341PAR.ZIP与CH347EVT.ZIP为WCH官方提供的资料包，可放心使用。
+此开源库中的GStudio_CH347_USB_TOOL.pdf为pcb原理图；CH341PAR.ZIP与CH347EVT.ZIP为WCH官方提供的资料包，可放心使用。
 
 使用方式：
 
